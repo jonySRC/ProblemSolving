@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EosSolve", "EosSolve\EosSol
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Largest Perimeter Triangle", "Largest Perimeter Triangle\Largest Perimeter Triangle.csproj", "{976495E1-D469-4F09-87C6-797EE1DE00E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cats and a Mouse", "Cats and a Mouse\Cats and a Mouse.csproj", "{D83B9852-CC02-4737-B3C9-89A41B6E42F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cats and a Mouse", "Cats and a Mouse\Cats and a Mouse.csproj", "{D83B9852-CC02-4737-B3C9-89A41B6E42F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forming a Magic Square", "Forming a Magic Square\Forming a Magic Square.csproj", "{066D8510-0F44-4458-AB5E-DACA5AAEA841}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forming a Magic Square", "Forming a Magic Square\Forming a Magic Square.csproj", "{066D8510-0F44-4458-AB5E-DACA5AAEA841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIU_Privious_Years_Problems", "MIU_Privious_Years_Problems\MIU_Privious_Years_Problems.csproj", "{9478438B-9659-4BB3-87EA-7DA1E8419898}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{066D8510-0F44-4458-AB5E-DACA5AAEA841}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{066D8510-0F44-4458-AB5E-DACA5AAEA841}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{066D8510-0F44-4458-AB5E-DACA5AAEA841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9478438B-9659-4BB3-87EA-7DA1E8419898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9478438B-9659-4BB3-87EA-7DA1E8419898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9478438B-9659-4BB3-87EA-7DA1E8419898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9478438B-9659-4BB3-87EA-7DA1E8419898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
